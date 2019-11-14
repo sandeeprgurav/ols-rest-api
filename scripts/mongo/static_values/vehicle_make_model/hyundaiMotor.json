@@ -1,0 +1,101 @@
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Eon",
+    "value" : "eon"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Grand i10",
+    "value" : "grandI10"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Xcent",
+    "value" : "xcent"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : " Elite i20",
+    "value" : "eliteI20"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "i20 Active",
+    "value" : "i20Active"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Verna (Old)",
+    "value" : "VernaOld"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Verna",
+    "value" : "Verna"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Elantra",
+    "value" : "elantra"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Creta",
+    "value" : "creta"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Tucson",
+    "value" : "tucson"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Santa Fe",
+    "value" : "santaFe"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Santro",
+    "value" : "santro"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Santro Xing",
+    "value" : "santroXing"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Sonata",
+    "value" : "sonata"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "Getz",
+    "value" : "getz"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "i 20 (old)",
+    "value" : "i20Old"
+}
+
+{
+    "type" : "hyundaiMotor",
+    "displayValue" : "i 10 (old)",
+    "value" : "i10Old"
+}

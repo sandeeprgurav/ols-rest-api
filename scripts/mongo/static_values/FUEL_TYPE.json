@@ -1,0 +1,29 @@
+{
+    "type" : "FUEL_TYPE",
+    "displayValue" : "Petrol",
+    "value" : "petrol"
+}
+
+{
+    "type" : "FUEL_TYPE",
+    "displayValue" : "Diesal",
+    "value" : "diesal"
+}
+
+{
+    "type" : "FUEL_TYPE",
+    "displayValue" : "Electric",
+    "value" : "electric"
+}
+
+{
+    "type" : "FUEL_TYPE",
+    "displayValue" : "Hybrid",
+    "value" : "hybrid"
+}
+
+{
+    "type" : "FUEL_TYPE",
+    "displayValue" : "CNG",
+    "value" : "cng"
+}

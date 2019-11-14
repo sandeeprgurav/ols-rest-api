@@ -1,0 +1,51 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.4.3.RELEASE")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'org.springframework.boot'
+
+
+jar {
+    baseName = 'ols-rest-api'
+    version =  '0.1.0'
+    into('static'){
+        from('static')
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter-web")
+    compile("org.springframework.boot:spring-boot-starter-data-mongodb")
+    compile 'com.mangofactory:swagger-springmvc:1.0.2'
+    compile 'org.aspectj:aspectjrt'
+    compile 'org.aspectj:aspectjweaver'
+    compile 'org.aspectj:aspectjtools'
+    compile 'org.springframework.boot:spring-boot-starter-cache'
+	compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.25'
+	compile group: 'ch.qos.logback', name: 'logback-classic', version: '1.2.2'
+    compile group: 'org.apache.poi', name:'poi-ooxml', version:'3.15'
+	compile group: 'commons-beanutils', name: 'commons-beanutils', version: '1.8.3'
+	compile group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.9.8'
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.8'
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.9.8'
+	
+    testCompile('org.springframework.boot:spring-boot-starter-test')
+}
+
+springBoot {
+    mainClass = "in.translinkers.rest.Application"
+}

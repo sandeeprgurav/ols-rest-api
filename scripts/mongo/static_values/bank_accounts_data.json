@@ -1,0 +1,26 @@
+[
+  {
+    "disabled": null,
+    "additionalProperties": {},
+    "createDate": null,
+    "lastModifiedDate": null,
+    "createdBy": null,
+    "lastModifiedBy": null,
+    "type": "BANK_ACCOUNTS",
+    "displayValue": "Savings",
+    "value": "savings",
+    "metaInfo": null
+  },
+  {
+    "disabled": null,
+    "additionalProperties": {},
+    "createDate": null,
+    "lastModifiedDate": null,
+    "createdBy": null,
+    "lastModifiedBy": null,
+    "type": "BANK_ACCOUNTS",
+    "displayValue": "Current Account",
+    "value": "currentaccount",
+    "metaInfo": null
+  }
+]

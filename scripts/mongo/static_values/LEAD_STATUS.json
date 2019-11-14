@@ -1,0 +1,23 @@
+{
+    "type" : "LEAD_STATUS",
+    "displayValue" : "CREATED",
+    "value" : "created"
+}
+
+{
+    "type" : "LEAD_STATUS",
+    "displayValue" : "FOLLOWEDUP",
+    "value" : "followUp"
+}
+
+{
+    "type" : "LEAD_STATUS",
+    "displayValue" : "CONVERTED",
+    "value" : "converted"
+}
+
+{
+    "type" : "LEAD_STATUS",
+    "displayValue" : "REJECTED",
+    "value" : "Rejected"
+}

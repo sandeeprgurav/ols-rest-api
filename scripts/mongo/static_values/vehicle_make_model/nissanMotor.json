@@ -1,0 +1,29 @@
+{
+    "type" : "nissanMotor",
+    "displayValue" : "Micra",
+    "value" : "micra"
+}
+
+{
+    "type" : "nissanMotor",
+    "displayValue" : "Sunny",
+    "value" : "sunny"
+}
+
+{
+    "type" : "nissanMotor",
+    "displayValue" : "Terrano",
+    "value" : "terrano"
+}
+
+{
+    "type" : "nissanMotor",
+    "displayValue" : "Evalia",
+    "value" : "evalia"
+}
+
+{
+    "type" : "nissanMotor",
+    "displayValue" : "teana",
+    "value" : "teana"
+}

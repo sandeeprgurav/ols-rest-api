@@ -1,0 +1,23 @@
+{
+    "type" : "VEHICLE_STATUS",
+    "displayValue" : "ACTIVE",
+    "value" : "active"
+}
+
+{
+    "type" : "VEHICLE_STATUS",
+    "displayValue" : "INACTIVE",
+    "value" : "inactive"
+}
+
+{
+    "type" : "VEHICLE_STATUS",
+    "displayValue" : "PENDING_ACTIVATION",
+    "value" : "pendingactivation"
+}
+
+{
+    "type" : "VEHICLE_STATUS",
+    "displayValue" : "ADHOC",
+    "value" : "adhoc"
+}

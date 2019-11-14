@@ -1,0 +1,89 @@
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Maruti-Suzuki",
+    "value" : "marutisuzuki"
+}
+
+{
+     "type" : "VEHICLE_MAKE",
+    "displayValue" : "Force Motors",
+    "value" : "forceMotors"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Ford India Private Limited",
+    "value" : "ford"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "General Motors India",
+    "value" : "generalMotors"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Honda Cars India",
+    "value" : "hondaCars"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Hyundai Motor India Limited",
+    "value" : "hyundaiMotor"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Isuzu Motors India",
+    "value" : "isuzuMotors"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Mahindra & Mahindra",
+    "value" : "mahindraAndMahindra"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Nissan Motor India Private Limited",
+    "value" : "nissanMotor"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Renault India Private Limited",
+    "value" : "renaultIndia"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "San Storm",
+    "value" : "sanStorm"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Škoda Auto India Private Limited",
+    "value" : "skodaAuto"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "SML Isuzu",
+    "value" : "smlIsuzu"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Toyota Kirloskar Motor",
+    "value" : "toyotaMotor"
+}
+
+{
+    "type" : "VEHICLE_MAKE",
+    "displayValue" : "Volkswagen India",
+    "value" : "volkswagenIndia"
+}

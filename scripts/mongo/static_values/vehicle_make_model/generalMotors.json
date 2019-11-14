@@ -1,0 +1,89 @@
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Tavera",
+    "value" : "chevroletTavera"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Sail Sedan",
+    "value" : "chevroletSailSedan"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Sail U-VA",
+    "value" : "chevroletSailUva "
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Spark",
+    "value" : "chevroletSpark"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Captiva",
+    "value" : "chevroletCaptiva"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Cruze",
+    "value" : "chevroletCruze"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Beat",
+    "value" : "chevroletBeat"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Enjoy",
+    "value" : "chevroletEnjoy"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Trailblazer SUV",
+    "value" : "chevroletTrailblazerSUV"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Forester",
+    "value" : "chevroletForester"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Optra SRV",
+    "value" : "chevroletOptraSRV"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Aveo U-VA",
+    "value" : "chevroletAveoUva"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Aveo",
+    "value" : "chevroletAveo"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Chevrolet Optra",
+    "value" : "ChevroletOptra"
+}
+
+{
+    "type" : "generalMotors",
+    "displayValue" : "Opel",
+    "value" : "opel"
+}

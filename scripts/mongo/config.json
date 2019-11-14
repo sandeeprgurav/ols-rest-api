@@ -1,0 +1,272 @@
+/* 1 */
+{
+    "_id" : ObjectId("589c7652a694b24c4d44fde2"),
+    "property" : "SERVER_ROOT",
+    "value" : "/var/www/html/uploads"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("589c7696a694b24c4d44fde3"),
+    "property" : "FILE_UPLOAD_PATH",
+    "value" : ""
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("589c76a0a694b24c4d44fde4"),
+    "property" : "SESSION_INCREMENT_TIME_SECONDS",
+    "value" : 900
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("589c76ada694b24c4d44fde5"),
+    "property" : "AUTH_ENABLED",
+    "value" : false
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("58c3d7f32218e0be9901fb3a"),
+    "property" : "BUFFER_HOUR_BEFORE",
+    "value" : -1
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("58c3d7f32218e0be9901fb3b"),
+    "property" : "BUFFER_HOUR_AHEAD",
+    "value" : 1
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5917509e05ee01dbff0720ee"),
+    "property" : "textlocal.apiKey",
+    "value" : "8BaiSsihlnA-nVJ7WKGaRhO2oE2N2qg3HFIQnW2CdS"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("591bd24b05ee01dbff0720f0"),
+    "property" : "ideacabs.senderId",
+    "value" : "YLWPLT"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("591c102305ee01dbff0720f2"),
+    "property" : "textlocal.url",
+    "value" : "http://api.textlocal.in/send/?"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("594e3efb05ee01dbff072119"),
+    "property" : "mail.smtp.host",
+    "value" : "smtp.gmail.com"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("594e3f1905ee01dbff07211a"),
+    "property" : "mail.smtp.socketfactory.port",
+    "value" : "465"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("594e3f5905ee01dbff07211b"),
+    "property" : "mail.smtp.socketfactory.class",
+    "value" : "javax.net.ssl.sslsocketfactory"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("594e3f5905ee01dbff07211d"),
+    "property" : "mail.signature",
+    "value" : "Regards,\nTeam Translinker"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("594e3f5905ee01dbff07211f"),
+    "property" : "mail.from.password",
+    "value" : "utvI2YBcLo8t4NJhFKyw7cytcbVUzwgle71Cwge8KnQ="
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("594e44f005ee01dbff072121"),
+    "property" : "mail.smtp.auth",
+    "value" : "true"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("594e456a05ee01dbff072122"),
+    "property" : "mail.body",
+    "value" : "Dear User,\n\nDo not reply to this email, please!\n\n"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("594e522205ee01dbff072124"),
+    "property" : "secret.key",
+    "value" : "777Juge$h7ms7777"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("59609377924d2ce3ac687417"),
+    "property" : "otp.window",
+    "value" : "600000"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("59d0863e84752c955fd55840"),
+    "property" : "mail.smtp.auth",
+    "value" : "true"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("59d0863e84752c955fd55842"),
+    "property" : "mail.from.user",
+    "value" : "teamtranslinker@gmail.com"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("59d0863e84752c955fd55843"),
+    "property" : "mail.signature",
+    "value" : "Regards,\nTeam Translinkers"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("59d0863e84752c955fd55844"),
+    "property" : "mail.smtp.port",
+    "value" : "587"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("59d0865584752c955fd55846"),
+    "property" : "googlemaps.apiKey",
+    "value" : "AIzaSyAUIfKeZIw25-MUpFAFKNKnvJNshkVRs_s"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("59dc8dccd81da2badd7c88fc"),
+    "property" : "s3.key",
+    "value" : "CQPTLXF2QFMUSNP7YZGN"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("59dc8dccd81da2badd7c88fd"),
+    "property" : "s3.secret",
+    "value" : "S+/YzUOOeaWE0BJGw6yX6lAfXaN8mMmAiJ09wA61+Rg"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("59dc8dccd81da2badd7c88fe"),
+    "property" : "s3.endpoint1",
+    "value" : "https://nyc3.digitaloceanspaces.com"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("59dc8dccd81da2badd7c88ff"),
+    "property" : "s3.region",
+    "value" : "nyc3"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("59dc8dccd81da2badd7c8900"),
+    "property" : "s3.bucket",
+    "value" : "yellowplate"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5a47b87a397413e4dff136f5"),
+    "property" : "from.email",
+    "value" : "info@yellowplate.in"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5a47b87a397413e4dff136f6"),
+    "property" : "from.name",
+    "value" : "YellowPlate Team"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5a47b87a397413e4dff136f7"),
+    "property" : "aws.ses.host",
+    "value" : "email-smtp.us-west-2.amazonaws.com"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5a47b87b397413e4dff136f8"),
+    "property" : "aws.ses.smtp.username",
+    "value" : "AKIAJXDJ3LQCJ7Q5ME3A"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5a47b87b397413e4dff136f9"),
+    "property" : "aws.ses.smtp.password",
+    "value" : "AqGhR8dnifxQk0DzlVX5P7Bgqz8xM8yT5MT4AUztJ6ZZ"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5aa101953f7deb3c4203fb4c"),
+    "property" : "ANDROID_MIN_VERSION",
+    "value" : 1.4
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5ae9b6ca7f5b85d74ce1dbe6"),
+    "property" : "s3.endpoint",
+    "value" : "http://139.59.8.241/uploads/"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5b1061433ff3b918a01ac10c"),
+    "property" : "PARTNER_CODE_COUNTER",
+    "value" : "0"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5b793aacd8047cc697f3867d"),
+    "property" : "FCM_API_KEY",
+    "value" : "AAAAYXicRt4:APA91bG8gcCG8fxqRqKfRhzadtHiNgBZ9iuVHw0BQoozg3chVfAFoqXZ2tn-lQOcKiT4hLkGvL7yC8E6M1OXvcHhanFc73Hu1Dx0fqvcIT-Xo4HizISbBN8xhDT6PoIgf-7sJO8Lvk45"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5b892f20d8047cc697f3867e"),
+    "property" : "textlocal.status.url",
+    "value" : "http://api.textlocal.in/status_message/?"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5b893b91d8047cc697f3867f"),
+    "property" : "sms.status.delay",
+    "value" : "20000"
+}

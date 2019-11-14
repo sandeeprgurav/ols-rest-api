@@ -1,0 +1,1 @@
+db.otp_audit.createIndex( { "createDate": 1 }, { expireAfterSeconds: 600 } )

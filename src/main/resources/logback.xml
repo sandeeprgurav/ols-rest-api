@@ -1,0 +1,43 @@
+<configuration>
+
+    <!-- <property name="loggingDir" value="c:\" />
+    <property name="archivedLoggingDir" value="c:\\archives" /> -->
+  <!--   <if condition='property("spring.profiles.active").contains("dev-local")' >
+        <then>
+            <property name="msgLevel" value="trace" />
+        </then>
+    </if> -->
+
+    <!-- <property name="paPattern" value="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n" /> -->
+
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>/var/log/translinkers/server.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+            <fileNamePattern>/var/log/translinkers/archives/server.log.%i.gz</fileNamePattern>
+            <minIndex>1</minIndex>
+            <maxIndex>20</maxIndex>
+        </rollingPolicy>
+        <triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+            <maxFileSize>10MB</maxFileSize>
+        </triggeringPolicy>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="in.translinkers" level="debug" additivity="false">
+        <appender-ref ref="FILE"/>
+    </logger>
+    
+    <root level="error">
+      <appender-ref ref="FILE" />
+      <appender-ref ref="STDOUT" />
+   </root>
+
+</configuration>

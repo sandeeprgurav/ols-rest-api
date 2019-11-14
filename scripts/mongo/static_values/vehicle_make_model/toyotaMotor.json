@@ -1,0 +1,71 @@
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Etios Liva",
+    "value" : "etiosLiva"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Etios Cross",
+    "value" : "etiosCross"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Etios Platinum",
+    "value" : "EtiosPlatinum"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Innova (Old)",
+    "value" : "innovaOld"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Innova Crysta",
+    "value" : "innovaCrysta"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Corolla (Old)",
+    "value" : "corollaOld"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Corolla Altis",
+    "value" : "corollaAltis"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Fortuner",
+    "value" : "fortuner"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Camry",
+    "value" : "camry"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Prius",
+    "value" : "prius"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Land Cruiser Prado",
+    "value" : "landCruiserPrado"
+}
+
+{
+    "type" : "toyotaMotor",
+    "displayValue" : "Land Cruiser",
+    "value" : "landCruiser"
+}

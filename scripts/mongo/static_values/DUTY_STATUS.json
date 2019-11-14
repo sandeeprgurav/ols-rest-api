@@ -1,0 +1,41 @@
+{
+    "type" : "DUTY_STATUS",
+    "displayValue" : "CREATED",
+    "value" : "created"
+}
+
+{
+    "type" : "DUTY_STATUS",
+    "displayValue" : "DECLINED",
+    "value" : "declined"
+}
+
+{
+    "type" : "DUTY_STATUS",
+    "displayValue" : "STARTED",
+    "value" : "started"
+}
+
+{
+    "type" : "DUTY_STATUS",
+    "displayValue" : "IN PROGRESS",
+    "value" : "inprogress"
+}
+
+{
+    "type" : "DUTY_STATUS",
+    "displayValue" : "COMPLETED",
+    "value" : "completed"
+}
+
+{
+    "type" : "DUTY_STATUS",
+    "displayValue" : "SETTLED",
+    "value" : "settled"
+}
+
+{
+    "type" : "DUTY_STATUS",
+    "displayValue" : "ASSIGNED",
+    "value" : "assigned"
+}

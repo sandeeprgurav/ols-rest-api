@@ -1,0 +1,15 @@
+package in.translinkers.rest.repository;
+
+import in.translinkers.rest.model.Address;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+public interface AddressRepository extends MongoRepository<Address, String>{
+   
+//   public Address findByUserId(String userId);
+//   
+//   public Address findByVehicleId(String vehicleNumber);
+//   
+   public Address findById(String addressId);
+}
+
