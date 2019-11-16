@@ -47,5 +47,5 @@ dependencies {
 }
 
 springBoot {
-    mainClass = "in.translinkers.rest.Application"
+    mainClass = "in.ols.rest.Application"
 }
