@@ -11,9 +11,9 @@
     <!-- <property name="paPattern" value="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n" /> -->
 
     <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
-        <file>/var/log/translinkers/server.log</file>
+        <file>/var/log/ols/server.log</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
-            <fileNamePattern>/var/log/translinkers/archives/server.log.%i.gz</fileNamePattern>
+            <fileNamePattern>/var/log/ols/archives/server.log.%i.gz</fileNamePattern>
             <minIndex>1</minIndex>
             <maxIndex>20</maxIndex>
         </rollingPolicy>
