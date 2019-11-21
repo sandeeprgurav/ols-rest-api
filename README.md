@@ -1,7 +1,6 @@
 "# OLS REST API" 
 OLS Client Access Link:
 https://ols-app.netlify.com/
-<br/>
 https://github.com/sandeeprgurav/ols-client
 
 OLS Rest API Access:
