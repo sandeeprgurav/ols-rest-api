@@ -1,6 +1,5 @@
 package in.ols.rest.controllers;
 
-
 import static in.ols.rest.model.RestErrorData.ErrorType.INPUT_VALIDATION;
 import static in.ols.rest.model.RestErrorData.ErrorType.OTHER;
 import static in.ols.rest.model.RestErrorData.ErrorType.SERVICE;
@@ -26,7 +25,6 @@ import in.ols.rest.exceptions.ServiceLayerException;
 import in.ols.rest.model.RestErrorData;
 import in.ols.rest.model.RestErrors;
 
-
 public class BaseController {
 
    private Logger log = LoggerFactory.getLogger(this.getClass());
@@ -45,7 +43,6 @@ public class BaseController {
       if (authStatusCodes.contains(statusCode)) {
          statusCode = HttpStatus.INTERNAL_SERVER_ERROR.value();
       }
-
       return statusCode;
    }
 
@@ -132,7 +129,6 @@ public class BaseController {
          errors.addError(errorData);
          cv.getMessage();
       });
-
       return errors;
    }
 

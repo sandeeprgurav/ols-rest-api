@@ -20,7 +20,6 @@ import in.ols.rest.model.Course;
 import in.ols.rest.model.CourseDto;
 import in.ols.rest.model.CourseView;
 import in.ols.rest.model.SearchParams;
-import in.ols.rest.model.Trainer;
 import in.ols.rest.repository.CourseRepository;
 import in.ols.rest.service.ICourseService;
 import in.ols.rest.service.IListConfigService;

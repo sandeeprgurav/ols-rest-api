@@ -20,7 +20,6 @@ import in.ols.rest.model.CourseDto;
 import in.ols.rest.repository.CourseRepository;
 import in.ols.rest.service.ICourseService;
 
-
 @CrossOrigin
 @RestController
 @RequestMapping(value = "/api/course")

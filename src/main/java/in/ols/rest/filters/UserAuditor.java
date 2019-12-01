@@ -9,6 +9,4 @@ public class UserAuditor implements AuditorAware<String> {
 	public String getCurrentAuditor() {
 		return MDC.get("username");
 	}
-	
-
 }

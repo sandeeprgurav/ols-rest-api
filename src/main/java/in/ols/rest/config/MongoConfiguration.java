@@ -18,7 +18,6 @@ import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
 import com.mongodb.ServerAddress;
 
-
 @Configuration
 @EnableMongoRepositories("in.ols.rest.model")
 @EnableMongoAuditing

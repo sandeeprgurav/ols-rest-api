@@ -1,6 +1,5 @@
 package in.ols.rest.aop;
 
-
 import java.io.IOException;
 
 import javax.servlet.http.HttpServletRequest;
@@ -32,7 +31,6 @@ public class LoggingAop {
    @Pointcut("execution(public * in.ols.rest.controllers..*.*(..))")
    private void controllerPC() {
    }
-
 
    @Before("controllerPC()")
    public void doBeforeControllerCall(JoinPoint jp) throws IOException {

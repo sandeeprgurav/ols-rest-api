@@ -23,7 +23,6 @@ public class BaseModel {
 	      COMPLETED	      
 	}
 	
-	
 	private String disabled;
 	private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
@@ -42,7 +41,6 @@ public class BaseModel {
 	public Map<String, Object> getAdditionalProperties() {
 		return additionalProperties;
 	}
-
 
 	public void setAdditionalProperties(Map<String, Object> additionalProperties) {
 		this.additionalProperties = additionalProperties;
@@ -93,5 +91,4 @@ public class BaseModel {
 			return "";
 		}
 	}
-
 }

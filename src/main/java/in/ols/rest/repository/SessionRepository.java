@@ -16,7 +16,6 @@ public interface SessionRepository extends MongoRepository<Session, String>{
    @Query("{'validTill':{'$gt':?1 }}") 
    public Session findByApiTokenAndValidTill(String apiToken, Date validTill);
    
-   
    public Session findByApiToken(String apiToken);
    
 }

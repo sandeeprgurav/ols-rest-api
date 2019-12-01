@@ -53,7 +53,6 @@ public class Application{
       configCache.setAllowNullValues(false);
       configCache.setCacheBuilder(CacheBuilder.newBuilder().maximumSize(2500).expireAfterWrite(1L, TimeUnit.DAYS));
       
-      
       GuavaCacheManager customerCache = new GuavaCacheManager("customerCache");
       customerCache.setAllowNullValues(false);
       customerCache.setCacheBuilder(CacheBuilder.newBuilder().maximumSize(2500).expireAfterWrite(2L, TimeUnit.DAYS));

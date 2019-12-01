@@ -7,7 +7,6 @@ import in.ols.rest.model.Config;
 import in.ols.rest.repository.ConfigRepository;
 import in.ols.rest.service.IConfigService;
 
-
 @Service
 public class ConfigServiceImpl implements IConfigService {
    

@@ -61,7 +61,6 @@ public class SessionCheckFilter implements Filter {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	@Override

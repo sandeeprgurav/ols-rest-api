@@ -1,7 +1,5 @@
 package in.ols.rest.controllers;
 
-
-
 import java.util.Date;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,7 +15,6 @@ import in.ols.rest.model.User;
 import in.ols.rest.repository.SessionRepository;
 import in.ols.rest.repository.UserRepository;
 import in.ols.rest.service.ISessionService;
-
 
 @RestController
 @RequestMapping(value = "/api/auth")
@@ -61,7 +58,4 @@ public class AuthController {
          sessionRepository.save(currentSession);
          return new LogoutResponse("", true);
       }
-   
-   
-   
 }

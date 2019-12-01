@@ -15,9 +15,6 @@ public class PropertyReader {
 	private static String propertyFileExtension = "";
 	private static final Logger logger = LoggerFactory.getLogger(PropertyReader.class);
 	
-	/**
-	 * Constructor
-	 */
 	private PropertyReader(){
 		InputStream inputStream;
 		String configFilePath = "";
@@ -43,11 +40,6 @@ public class PropertyReader {
 		private static final PropertyReader INSTANCE = new PropertyReader();
 	}
 
-	/**
-	 * Call this method with property file name and file extension
-	 * @param propFile
-	 * @return
-	 */
 	public static PropertyReader getInstance(String propFile, String propFileExtension){
 		propertyFileName = propFile;
 		propertyFileExtension = propFileExtension;

@@ -7,7 +7,6 @@ import in.ols.rest.model.TrainerDto;
 
 public interface ITrainerService {
 	
-
 	List<TrainerDto> getTrainerList(List<Trainer> allTrainers);
 
 	Trainer save(TrainerDto bookingDto) throws Exception;

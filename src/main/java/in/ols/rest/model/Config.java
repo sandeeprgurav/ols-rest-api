@@ -36,10 +36,7 @@ public class Config{
 	public static final String AWS_SES_SMTP_USERNAME = "aws.ses.smtp.username";
 	public static final String AWS_SES_SMTP_PASSWORD = "aws.ses.smtp.password";
 	
-	public static final String PARTNER_CODE_INITIAL= "PARTNER_CODE_INITIAL";
-	public static final String PARTNER_CODE_COUNTER = "PARTNER_CODE_COUNTER";
 	public static final String PREPEND_ZEROS = "%1$06d";
-	
 	
 
 	@Indexed

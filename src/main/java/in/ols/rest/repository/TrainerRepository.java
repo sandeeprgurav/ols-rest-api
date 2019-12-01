@@ -4,9 +4,7 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 import in.ols.rest.model.Trainer;
 
-
-public interface TrainerRepository extends MongoRepository<Trainer, String>{
-   
+public interface TrainerRepository extends MongoRepository<Trainer, String>{   
    
 }
 

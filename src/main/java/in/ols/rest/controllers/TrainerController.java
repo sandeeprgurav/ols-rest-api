@@ -20,7 +20,6 @@ import in.ols.rest.model.TrainerDto;
 import in.ols.rest.repository.TrainerRepository;
 import in.ols.rest.service.ITrainerService;
 
-
 @CrossOrigin
 @RestController
 @RequestMapping(value = "/api/trainer")
@@ -69,9 +68,5 @@ public class TrainerController extends BaseController {
 		logger.info("TrainerController.delete method called");
 		return trainerService.delete(trainerId);
 	}
-	
-	
-	
-	
-		
+			
 }

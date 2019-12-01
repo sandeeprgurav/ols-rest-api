@@ -1,15 +1,5 @@
 <configuration>
 
-    <!-- <property name="loggingDir" value="c:\" />
-    <property name="archivedLoggingDir" value="c:\\archives" /> -->
-  <!--   <if condition='property("spring.profiles.active").contains("dev-local")' >
-        <then>
-            <property name="msgLevel" value="trace" />
-        </then>
-    </if> -->
-
-    <!-- <property name="paPattern" value="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n" /> -->
-
     <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>/var/log/ols/server.log</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
@@ -31,7 +21,7 @@
         </encoder>
     </appender>
 
-    <logger name="in.translinkers" level="debug" additivity="false">
+    <logger name="in.ols" level="debug" additivity="false">
         <appender-ref ref="FILE"/>
     </logger>
     

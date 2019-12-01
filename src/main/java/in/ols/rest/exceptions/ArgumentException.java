@@ -7,7 +7,6 @@ import java.util.List;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import org.springframework.validation.ObjectError;
 
-
 public class ArgumentException extends Exception {
 
    private Integer errorCode;
