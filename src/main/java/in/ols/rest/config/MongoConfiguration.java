@@ -20,7 +20,7 @@ import com.mongodb.ServerAddress;
 
 
 @Configuration
-@EnableMongoRepositories("in.translinkers.rest.model")
+@EnableMongoRepositories("in.ols.rest.model")
 @EnableMongoAuditing
 public class MongoConfiguration extends AbstractMongoConfiguration {
 
